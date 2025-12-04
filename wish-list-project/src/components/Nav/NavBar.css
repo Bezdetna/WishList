@@ -1,0 +1,36 @@
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.nav-wrapper{
+    padding: 0 5%;
+}
+.navbar-brand{
+    display: flex;
+    align-items: center;
+    color: #43302e;
+}
+
+@media(max-width: 576px){
+    .navbar-brand{
+       display: none;
+    }
+
+}
+.navbar-btn{
+    background-color: rgb(255, 255, 255);
+    color: #43302e;
+    border: 2px solid #43302e;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.navbar-btn:hover{
+    background-color:#43302e;
+    color: white;
+    transition: 0.3s;
+}
+.link{
+    text-decoration: none;
+}

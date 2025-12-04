@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "title": "Vintage MacBook",
+      "description": "Iconic, glossy white polycarbonate shell.",
+      "price": 1000,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Macbook_white_redjar_20060603.jpg/500px-Macbook_white_redjar_20060603.jpg",
+      "id": "3",
+      "date": "2024-12-15T17:55:16.674Z"
+    },
+    {
+      "title": "Medical analysis certificate",
+      "description": "A fancy piece of paper proving I’m still alive and functioning.",
+      "price": 610,
+      "image": "https://medicalstudio.com.ua/images/sert/1-1.jpg",
+      "id": "115",
+      "date": "202-512-03T17:55:16.674Z"
+    },
+    {
+      "id": "6225",
+      "title": "Magnesium with Vitamin B6",
+      "description": "Magnesium + B6 — for strong bones, steady vibes, and the “I’m fine actually” lifestyle.",
+      "price": 260,
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01721/l/69.jpg",
+      "date": "2014-12-03T17:55:16.674Z"
+    },
+    {
+      "id": "2222",
+      "title": "Magnesium with Vitamin B6",
+      "description": "Magnesium + B6 — for strong bones, steady vibes, and the “I’m fine actually” lifestyle.",
+      "price": 6220,
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01721/l/69.jpg",
+      "date": "2024-14-03T17:55:16.674Z"
+    },
+    {
+      "title": "Vitamin B6",
+      "description": "Magnesium + B6 — for strong bones, steady vibes, and the “I’m fine actually” lifestyle.",
+      "price": 60,
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/sol/sol01721/l/69.jpg",
+      "id": "654"
+    },
+    {
+      "id": "fe04",
+      "title": "Ружж",
+      "description": "мавм",
+      "price": "222.73",
+      "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petite-global/dynamic-media/personal-care/308f/primary/308F_Primary-Ceramic-Patina-Topaz.png",
+      "date": "2025-12-04T01:41:49.485Z"
+    }
+  ]
+}
