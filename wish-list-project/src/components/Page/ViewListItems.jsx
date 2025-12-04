@@ -15,9 +15,10 @@ function ViewListItems() {
                 method: 'DELETE',
             }).then(() => {
                 navigate("/");
+                alert("Delete successfully!")
                 window.location.reload();
             }).catch(error => {
-                console.error(error);
+                alert(`Problem ${error.message}`);
             });
         }
     };

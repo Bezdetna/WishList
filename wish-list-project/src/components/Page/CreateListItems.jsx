@@ -41,9 +41,10 @@ export default function CreateListItem() {
         })
             .then((res) => {
                 navigate('/')
+                alert("Create successfully!")
             })
             .catch(error => {
-                console.error('Error adding new wish:', error);
+                alert(`Problem: ${error}`)
             });
 
 

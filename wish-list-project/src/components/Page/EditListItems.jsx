@@ -24,7 +24,7 @@ function EditListItems() {
                 setPrice(data.price)
                 setDescription(data.description)
             })
-            .catch((err) => console.log(err.message))
+            .catch((error) => alert(`You have problem with ${error}`));
 
     }, [id]);
 
@@ -46,9 +46,10 @@ function EditListItems() {
         })
             .then((res) => {
                 navigate("/")
+                alert(`You succses edit item!`);
             })
             .catch(error => {
-                console.error('Error adding new wish:', error)
+                alert(`You have problem with ${error}`);
             });
 
     };
